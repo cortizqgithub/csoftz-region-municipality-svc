@@ -1,0 +1,5 @@
+= csoftz-region-municipality-svc
+
+20200926-V1.0.0
+
+World Region Municipality Service (Microservice)
